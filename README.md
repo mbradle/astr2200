@@ -8,5 +8,5 @@ These notebooks relate to the course Astronomy 2200, including solving problems 
 
 ## Two-body problem
 
-*two-body.ipynb*: This Jupyter notebook presents orbits computed from user input scaled energy.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/astr2200/blob/main/two-body.ipynb). 
+*2-body.ipynb*: This Jupyter notebook presents orbits computed from user input scaled energy.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbradle/astr2200/blob/main/2-body.ipynb). 
 
